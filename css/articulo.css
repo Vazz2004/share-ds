@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.emcabezado-art p{
+    color: black !important;
+}
+
+.img-art1 img{
+    width: 100%;
+    height: 300px;
+    background-attachment: fixed;
+}
+
+.conte-art p{
+    color: black;
+}
